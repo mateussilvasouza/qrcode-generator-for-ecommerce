@@ -103,11 +103,7 @@ Escolha o tipo de QR Code:
 
 ## 📝 Observações finais
 
-Projeto educacional criado para revisão de conceitos. Se preferir, posso:
-
-- adicionar um script `dev` com `ts-node-dev` (hot reload em desenvolvimento);
-- reverter para execução direta em JavaScript sem bundling.
-
+Projeto educacional criado para revisão de conceitos.
 ---
 
 Licença: uso educacional.
